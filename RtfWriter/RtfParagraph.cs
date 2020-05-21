@@ -3,7 +3,7 @@ using System.Configuration;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Elistia.DotNetRtfWriter
+namespace ThreeLambs.DotNetRtfWriter
 {
     /// <summary>
     /// Summary description for RtfParagraph

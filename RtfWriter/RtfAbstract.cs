@@ -1,7 +1,7 @@
 using System;
 using System.Configuration;
 
-namespace Elistia.DotNetRtfWriter
+namespace ThreeLambs.DotNetRtfWriter
 {
     /// <summary>
     /// Internal use only.

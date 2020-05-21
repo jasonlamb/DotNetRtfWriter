@@ -1,7 +1,7 @@
 using System;
 using System.Text;
 
-namespace Elistia.DotNetRtfWriter
+namespace ThreeLambs.DotNetRtfWriter
 {
     public class RtfSection : RtfBlock
     {
